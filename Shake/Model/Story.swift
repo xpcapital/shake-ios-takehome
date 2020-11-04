@@ -10,14 +10,7 @@ import Foundation
 
 struct Story: Decodable {
     let imageURL: String?
-    let videoURL: String
+    let videoURL: String?
     let uploadedAt: String
     let duration: Int
-    
-    enum CodingKeys: String, CodingKey {
-        case imageURL,
-             videoURL,
-             uploadedAt,
-             duration
-    }
 }

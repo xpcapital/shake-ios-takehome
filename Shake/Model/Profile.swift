@@ -12,15 +12,8 @@ struct User: Decodable {
     let username: String
     let pictureURL: String
     let stories: [Story]
-
-    enum CodingKeys: String, CodingKey {
-        case username,
-             pictureURL,
-             stories
-    }
 }
 
 struct Users: Decodable {
     let users: [User]
 }
-
