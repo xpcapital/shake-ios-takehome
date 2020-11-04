@@ -1,6 +1,6 @@
-# Shake iOS Take home
+# Shake iOS
 
-Takeoff Labs Take Home Exercise
+Takeoff Labs Shake Exercise
 
 This is a frontend exercise that will give you the chance to see what kind of things we build at Takeoff Labs!
 
@@ -18,8 +18,8 @@ Your goal is to make as much progress on this project in the time allocated.
 Run the following commands:
 
 ```
-cd shake-ios-takehome/
-open takehome.xcworkspace
+cd Shake-Starter-Pack/
+open Shake.xcodeproj
 ```
 
 The starter project already contains the "business" / "data" part, the REST API request is already implemented and the objects are already serialized. Ready to be used in your UI :)
