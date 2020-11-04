@@ -9,7 +9,7 @@ The app will display a horizontal list of users who have posted some stories, yo
 
 We've provided the design and an explanation of each component in a Figma file - https://www.figma.com/file/aBSmzbQ9dQDlEfriXGA1wJ/Stories-take-home?node-id=7%3A147. 
 
-![screenshot](https://imgur.com/a/daZxtPW)
+![screenshot](https://i.imgur.com/24gTLMh.png)
 
 Your goal is to make as much progress on this project in the time allocated.
 
