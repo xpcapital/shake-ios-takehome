@@ -23,6 +23,7 @@ class ViewController: UIViewController {
             switch result {
             case .success(let users):
                 self.users = users.users
+                
                 break
             case .failure(let error):
                 // TODO: Handle Error
