@@ -9,5 +9,5 @@
 import Foundation
 
 enum EndPoints: String {
-    case Profiles = "https://api.jsonbin.io/v3/b/61f7fb5d518e5f3b2ab37cff"
+    case Profiles = "https://api.npoint.io/22745c6a38c5ce781f23"
 }
